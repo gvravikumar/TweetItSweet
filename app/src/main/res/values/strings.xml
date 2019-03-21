@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TweetItSweet</string>
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="search_tweet">search tweet</string>
+    <string name="user_name">Sam Duff</string>
+    <string name="tag">Duff</string>
+    <string name="time_ago">some time ago</string>
+    <string name="todo">TODO</string>
+</resources>
